@@ -1,5 +1,5 @@
 - Hi, I’m @SiddharthVerma
-- I’m currently learning ML,SQL.
+- I’m currently learning ML,deep-learning,Image-Processing.
 - Email-Siddharthverma797@gmail.com
 
 <!---
